@@ -7,6 +7,6 @@ This is my portfolio website and i will be keep on updating it. In future, i wil
 
 
 
-Do visit my website and mail or message me if you want to hire me :). 
+Do visit my website and mail me or message me if you want to hire me :). 
 ```
 
