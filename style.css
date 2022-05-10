@@ -354,14 +354,14 @@ section .title::after{
 .skills-content .right .css::before{
     width: 60%;
 }
-.skills-content .right .cpp::before{
+.skills-content .right .python::before{
     width: 50%;
 }
 .skills-content .right .java::before{
     width: 80%;
 }
 .skills-content .right .javascript::before{
-    width: 50%;
+    width: 40%;
 }
 
 
